@@ -1,2 +1,2 @@
-# Coding_Practice
+# Coding Practice
 A repo that I use to solely focus on Data Structures and Algorithms
